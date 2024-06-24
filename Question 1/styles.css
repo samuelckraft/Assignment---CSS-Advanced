@@ -1,0 +1,16 @@
+.background-fade {
+    background: rgba(255, 250, 150, .6);
+}
+
+h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .5);;
+}
+
+button {
+    background-color: green;
+    transition: background-color .5s ease;
+}
+
+button:hover {
+    background-color: red;
+}
